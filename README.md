@@ -1,16 +1,12 @@
-### Hi there 👋
+# Jorge Lucas
 
-<!--
-**jorge-lucas5/jorge-lucas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Trabalhando como FullStack Developer, e sempre estudando para aprimorar meus conhecimentos :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **Unica Tecnologia**
+ <br/> :purple_heart: &nbsp; Me aventurando no estudos de React
+ <br/> :computer: &nbsp; Minha stack: ASP.NET, ASP.NET CORE e PHP
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-jorgelucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lucas/)](https://www.linkedin.com/in/jorge-lucas/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/jorgelucasl91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgelucasl91@gmail.com)](jorgelucasl91@gmail.com)

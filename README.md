@@ -15,5 +15,5 @@ Trabalhando como FullStack Developer, e sempre estudando para aprimorar meus con
 
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=jorge-lucas5&show_icons=true&theme=dark" alt="jorge-lucas5" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jorge-lucas5&show_icons=true&theme=dark&hide=contribs,prs" alt="jorge-lucas5" />
 </p> 

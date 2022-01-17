@@ -5,7 +5,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Trabalhando como FullStack Developer, e sempre estudando para aprimorar meus conhecimentos :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **[Tecnologia Única](https://www.tecnologiaunica.com.br/)**
+ :rocket:  &nbsp; Estou trabalhando na **[XP Investimentos](https://www.xpi.com.br/)**
  <br/> :computer: &nbsp; Minha stack: C#, ASP.NET e ASP.NET CORE 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-jorgelucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lucas/)](https://www.linkedin.com/in/jorge-lucas/) 
 | 
